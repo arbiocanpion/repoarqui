@@ -1,0 +1,77 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:39:14 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat May  9 15:21:31 2020
+# Process ID: 6304
+# Current directory: /home/lucianop/Documents/9semestre/IIC2343/proyecto-entrega-grupo-6/Entrega 2
+# Command line: vivado
+# Log file: /home/lucianop/Documents/9semestre/IIC2343/proyecto-entrega-grupo-6/Entrega 2/vivado.log
+# Journal file: /home/lucianop/Documents/9semestre/IIC2343/proyecto-entrega-grupo-6/Entrega 2/vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {/home/lucianop/Documents/9semestre/IIC2343/proyecto-entrega-grupo-6/Entrega 2/Proyecto/Entrega2.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/tools/Xilinx/Vivado/2019.2/data/ip'.
+open_project: Time (s): cpu = 00:00:13 ; elapsed = 00:00:05 . Memory (MB): peak = 6547.590 ; gain = 118.738 ; free physical = 8958 ; free virtual = 14876
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs synth_1 -jobs 2
+[Sat May  9 17:15:35 2020] Launched synth_1...
+Run output will be captured here: /home/lucianop/Documents/9semestre/IIC2343/proyecto-entrega-grupo-6/Entrega 2/Proyecto/Entrega2.runs/synth_1/runme.log
+reset_run synth_1
+launch_runs synth_1 -jobs 2
+[Sat May  9 17:17:33 2020] Launched synth_1...
+Run output will be captured here: /home/lucianop/Documents/9semestre/IIC2343/proyecto-entrega-grupo-6/Entrega 2/Proyecto/Entrega2.runs/synth_1/runme.log
+reset_run synth_1
+launch_runs synth_1 -jobs 2
+[Sat May  9 17:18:20 2020] Launched synth_1...
+Run output will be captured here: /home/lucianop/Documents/9semestre/IIC2343/proyecto-entrega-grupo-6/Entrega 2/Proyecto/Entrega2.runs/synth_1/runme.log
+reset_run synth_1
+launch_runs synth_1 -jobs 2
+[Sat May  9 17:27:01 2020] Launched synth_1...
+Run output will be captured here: /home/lucianop/Documents/9semestre/IIC2343/proyecto-entrega-grupo-6/Entrega 2/Proyecto/Entrega2.runs/synth_1/runme.log
+reset_run synth_1
+launch_runs synth_1 -jobs 2
+[Sat May  9 17:29:48 2020] Launched synth_1...
+Run output will be captured here: /home/lucianop/Documents/9semestre/IIC2343/proyecto-entrega-grupo-6/Entrega 2/Proyecto/Entrega2.runs/synth_1/runme.log
+reset_run synth_1
+launch_runs synth_1 -jobs 2
+[Sat May  9 17:33:42 2020] Launched synth_1...
+Run output will be captured here: /home/lucianop/Documents/9semestre/IIC2343/proyecto-entrega-grupo-6/Entrega 2/Proyecto/Entrega2.runs/synth_1/runme.log
+reset_run synth_1
+launch_runs synth_1 -jobs 2
+[Sat May  9 17:35:13 2020] Launched synth_1...
+Run output will be captured here: /home/lucianop/Documents/9semestre/IIC2343/proyecto-entrega-grupo-6/Entrega 2/Proyecto/Entrega2.runs/synth_1/runme.log
+reset_run synth_1
+launch_runs synth_1 -jobs 2
+[Sat May  9 17:39:46 2020] Launched synth_1...
+Run output will be captured here: /home/lucianop/Documents/9semestre/IIC2343/proyecto-entrega-grupo-6/Entrega 2/Proyecto/Entrega2.runs/synth_1/runme.log
+reset_run synth_1
+launch_runs synth_1 -jobs 2
+[Sat May  9 17:44:22 2020] Launched synth_1...
+Run output will be captured here: /home/lucianop/Documents/9semestre/IIC2343/proyecto-entrega-grupo-6/Entrega 2/Proyecto/Entrega2.runs/synth_1/runme.log
+reset_run synth_1
+launch_runs synth_1 -jobs 2
+[Sat May  9 17:54:39 2020] Launched synth_1...
+Run output will be captured here: /home/lucianop/Documents/9semestre/IIC2343/proyecto-entrega-grupo-6/Entrega 2/Proyecto/Entrega2.runs/synth_1/runme.log
+reset_run synth_1
+launch_runs synth_1 -jobs 2
+[Sat May  9 17:56:24 2020] Launched synth_1...
+Run output will be captured here: /home/lucianop/Documents/9semestre/IIC2343/proyecto-entrega-grupo-6/Entrega 2/Proyecto/Entrega2.runs/synth_1/runme.log
+launch_runs impl_1 -jobs 2
+[Sat May  9 17:57:36 2020] Launched impl_1...
+Run output will be captured here: /home/lucianop/Documents/9semestre/IIC2343/proyecto-entrega-grupo-6/Entrega 2/Proyecto/Entrega2.runs/impl_1/runme.log
+reset_run impl_1 -prev_step 
+update_compile_order -fileset sources_1

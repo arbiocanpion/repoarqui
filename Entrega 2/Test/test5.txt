@@ -1,0 +1,31 @@
+DATA:
+
+t 234
+i 0
+
+CODE:
+MOV A,237
+MOV (t),A
+MOV A,0
+MOV (i),A
+MOV B,0
+JMP D0
+
+end:
+MOV A,(i)
+MOV B,(t)
+JMP end
+
+D0:
+INC A
+JMP D1
+
+D2:
+INC (i)
+DEC A
+JMP end
+
+D1:
+INC (i)
+INC B
+JMP D2
